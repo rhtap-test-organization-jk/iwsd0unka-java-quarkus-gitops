@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iwsd0unka-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/iwsd0unka-java-quarkus
